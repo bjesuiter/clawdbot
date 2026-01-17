@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.34",
+  "base_commit_sha": "ad1dbeb4703931ac9cd29165b4e4bf7ea1ff6c87",
+  "prompts": {
+    "2589af487e5c12ce": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_433e23071ffeVmvjweyo1rpZrc",
+        "model": "openai/gpt-5.2-codex"
+      },
+      "human_author": "Benjamin Jesuiter <bjesuiter@gmail.com>",
+      "messages": [],
+      "total_additions": 19,
+      "total_deletions": 4,
+      "accepted_lines": 19,
+      "overriden_lines": 0
+    }
+  }
+}
